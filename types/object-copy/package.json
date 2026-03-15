@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "name": "@types/object-copy",
+    "version": "1.0.9999",
+    "projects": [
+        "https://github.com/jonschlinkert/object-copy"
+    ],
+    "dependencies": {},
+    "devDependencies": {
+        "@types/object-copy": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Mahmoud Hamdi",
+            "githubUsername": "mahmoodhamdi"
+        }
+    ]
+}
